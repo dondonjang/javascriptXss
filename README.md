@@ -1,1 +1,1 @@
-# javascriptXss
+# javascript XSS Filter
